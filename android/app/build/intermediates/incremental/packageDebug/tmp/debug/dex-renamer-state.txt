@@ -1,0 +1,4 @@
+#Tue Jan 28 21:43:55 BRT 2020
+base.0=D\:\\Projetos\\FOA\\mobielProva\\android\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
